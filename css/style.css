@@ -1,0 +1,11 @@
+/* common css */
+body{
+    font: size 14px;
+    font-family: poppins,sans-serif;
+    color: #242732;
+}
+.bg-image{
+    background: url('../image/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
